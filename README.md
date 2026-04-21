@@ -4,7 +4,6 @@
 
 nine lil creatures that walk along the bottom of your tabs. pick up to three to keep you company while you work. they nap, they wander, they wiggle. they don't do anything useful and honestly that's the whole point.
 
-**live site:** https://deepali.github.io/tiny-tabs/
 
 ![tiny tabs preview](favicon.svg)
 
