@@ -62,15 +62,6 @@ python3 -m http.server 8000
 # then visit http://localhost:8000
 ```
 
-## deploying
-
-pushes to `main` auto-deploy to github pages via the workflow in `.github/workflows/deploy.yml`.
-
-to set it up on a fresh fork:
-1. go to **settings → pages**
-2. under "build and deployment", choose **github actions** as the source
-3. push to main, watch the site deploy
-
 ## project structure
 
 ```
@@ -88,10 +79,10 @@ tiny-tabs/
 
 ## license
 
-mit. do whatever. just don't steal the creatures please, i love them.
+do whatever. just don't steal the creatures please, i love them.
 
 ## about
 
-made by deepali in my bedroom, mostly while i should have been doing other things. the extension itself is still in beta. if you want to say hi or suggest a new creature, open an issue :)
+made by me in my bedroom, mostly while i should have been doing other things. the extension itself is still in beta. if you want to say hi or suggest a new creature, open an issue :)
 
 — deepali ♡
